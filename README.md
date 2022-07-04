@@ -1,6 +1,3 @@
-# Canonical
-Canonical Assignment
-# Coding assignment
 
 This coding exercise allows us to evaluate your basic knowledge and thought
 process.
